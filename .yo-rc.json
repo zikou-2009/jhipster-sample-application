@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GestionLaboraoitre",
+    "packageName": "com.clevertech",
+    "packageFolder": "com/clevertech",
+    "serverPort": 8040,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "ar-ly",
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "N2M0MjVkM2Y2MjRhY2U0ZThiNzhkM2MzNzVmZDJhZTYxNmQyZGFjMWUwYzlmZGY1YzIyMzI4MzhhNzdiMWMwN2ZlMTRmZjgyODVhMGRkOTRkNWFhMmQ4NDc0MjA4NmJjNWVlMmM3NzliOGQyZjk5NDgzNmE0NzdjYmUzY2M3MTE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "zikou-2009",
+  "repository-name": "jhipster-sample-application"
+}
